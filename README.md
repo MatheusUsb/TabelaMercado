@@ -1,4 +1,4 @@
-#TabelaMercado
+# TabelaMercado
 
 -- Criação da tabela "mercado"
 CREATE TABLE mercado (
